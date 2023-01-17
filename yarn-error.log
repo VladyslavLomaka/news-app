@@ -42,6 +42,7 @@ npm manifest:
       "@react-navigation/native-stack": "^6.9.8",
       "axios": "^1.2.2",
       "expo": "~47.0.12",
+      "expo-font": "^11.0.1",
       "expo-status-bar": "~1.4.2",
       "react": "18.1.0",
       "react-native": "0.70.5",
@@ -3153,7 +3154,7 @@ Lockfile:
     dependencies:
       uuid "^3.4.0"
   
-  expo-font@~11.0.1:
+  expo-font@^11.0.1, expo-font@~11.0.1:
     version "11.0.1"
     resolved "https://registry.npmjs.org/expo-font/-/expo-font-11.0.1.tgz"
     integrity sha512-LGAIluWZfru0J0n87dzb6pwAB6TVMTEiLcsd/ktozzbn4DlN7SeQy40+ruU6bvAKCOGrnRneYbKSIOGkrd7oNg==
